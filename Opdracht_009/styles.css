@@ -1,0 +1,26 @@
+.box-model-properties {
+    border: 5px solid blue;
+    margin: 20px;
+    padding: 10px;
+}
+
+
+.center-title{
+    margin: 0 auto;
+    width: 300px;
+}
+
+.navigation-links li { 
+    display: inline;
+    margin: 10px;
+}
+
+.blogpost { width: 300px; border: 1px solid black; 
+       display: flex;
+      
+}
+
+        
+
+
+
